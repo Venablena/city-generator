@@ -1,6 +1,6 @@
 {
   "name": "city-generator-extraordinaire",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates an array of cities with invented data.",
   "main": "index.js",
   "scripts": {
