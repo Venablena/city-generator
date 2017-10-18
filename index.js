@@ -15,3 +15,5 @@ function createCities(num){
   }
   return result
 }
+
+module.exports = createCities

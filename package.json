@@ -1,13 +1,13 @@
 {
-  "name": "npm_cities",
+  "name": "city-generator-extraordinaire",
   "version": "1.0.0",
-  "description": "",
+  "description": "Creates an array of cities with invented data.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Lena Venable & Sean Obringer",
   "license": "ISC",
   "dependencies": {
     "faker": "^4.1.0"
